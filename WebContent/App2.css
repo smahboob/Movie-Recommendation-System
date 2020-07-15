@@ -1,0 +1,23 @@
+
+body{
+	text-align: center;
+}
+
+input{
+	margin-left:10px
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.btn{
+	border: 1px solid black;
+	border-radius: 10px;
+	cursor:pointer;
+	width:100px;
+	text-align:center;
+	margin:20px;
+	padding:5px;
+}
