@@ -5,3 +5,5 @@ User rates a few movies and the program matches the user ratings to other users 
 
 
 <a href="https://ibb.co/G02NJ3V"><img src="https://i.ibb.co/pxz5Pr3/Movie-Recommender.png" alt="Movie-Recommender" border="0"></a>
+
+[Demo]https://media.giphy.com/media/RN2C100vxZcSRVPwBF/giphy.gif
