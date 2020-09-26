@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-This recommendation engine is built on the concept of collaborative filtering. 
+This recommendation engine is built on the concept of collaborative filtering in Java.
 User rates a few movies and the program matches the user ratings to other users in the database and recommends movies on basis of similarity between user behaviour towrads rating movies.
 
 
